@@ -1,0 +1,3 @@
+[submodule "universal-recommender"]
+	path = universal-recommender
+	url = git@github.com:NorthLand89/universal-recommender.git
